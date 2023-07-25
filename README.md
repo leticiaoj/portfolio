@@ -1,4 +1,4 @@
 # `Portfolio`
 
-→ CSS
-→ ReactJS
+<p>→ CSS</p>
+<p>→ ReactJS</p>
