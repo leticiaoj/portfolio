@@ -22,7 +22,7 @@ const About = () => {
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
             <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
-                  <CountUp start={0} end={810} duration={10} />
+                  <CountUp start={0} end={1305} duration={20} />
                   +
                 </div>
                 <div className='front-primary text-sm tracking-[2px]'>
@@ -32,7 +32,7 @@ const About = () => {
               </div>
               <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
-                  <CountUp start={0} end={447} duration={10} />
+                  <CountUp start={0} end={447} duration={20} />
                   +
                 </div>
                 <div className='front-primary text-sm tracking-[2px]'>
