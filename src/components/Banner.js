@@ -32,7 +32,7 @@ const Banner = () => {
               repeat={Infinity}
               />
             </motion.div>
-            <motion.p variants={fadeIn('up', 0.6)} initial="hidden" whileInView={'show'} viewport={{once: false, amount:0.7}}className='mb-8 max-w-lg mx-auto lg:mx-0'>Estudante de Sistemas de Informação e recém-formada pelo Bootcamp "Pessoa Desenvolvedora Web Full Stack" da Generation Brasil.</motion.p>
+            <motion.p variants={fadeIn('up', 0.6)} initial="hidden" whileInView={'show'} viewport={{once: false, amount:0.7}}className='mb-8 max-w-lg mx-auto lg:mx-0'>Estudante de Sistemas de Informação formada pelo Bootcamp "Pessoa Desenvolvedora Web Full Stack" da Generation Brasil.</motion.p>
             <motion.div variants={fadeIn('up', 0.3)} initial="hidden" whileInView={'show'} viewport={{once: false, amount:0.7}}className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
               <a href='https://www.youtube.com/watch?v=bbxvICmrqOY&t=4s' target='blank'>
               <button className='btn btn-lg'>Me conheça melhor!</button>
