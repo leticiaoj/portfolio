@@ -10,7 +10,7 @@ const Header = () => {
           <img src={Logo} alt=''/>
         </a>
         <Link to='contact'>
-        <button className='btn btn-sm'>Trabalhe comigo!</button>
+        <button className='btn btn-sm'>Me contate!</button>
         </Link>
       </div>
     </div>
