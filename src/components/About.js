@@ -18,7 +18,7 @@ const About = () => {
           <motion.div variants={fadeIn('left', 0.5)} initial='hidden' whileInView={'show'} viewport={{ once: false, amount: 0.3 }} className='flex-1'>
             <h2 className='h2 text-accent'>Sobre mim</h2>
             <h3 className='h3 mb-4'>Sou uma Desenvolvedora Full Stack</h3>
-            <p className='mb-6'>Falo Inglês e Espanhol e minhas principais soft e hard skills desenvolvidas ao longo da minha jornada são: comunicação, trabalho em equipe, atenção aos detalhes, Python, Java, SQL, HTML, CSS, JavaScript, TypeScript, React, entre muitas outras, que você pode conferir no meu currículo.</p>
+            <p className='mb-6'>Falo Inglês e Espanhol e minhas principais soft e hard skills desenvolvidas ao longo da minha jornada são: comunicação, trabalho em equipe, atenção aos detalhes, Python, Java, SQL, TypeScript, React, entre muitas outras, que você pode conferir baixando meu currículo.</p>
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
             <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
