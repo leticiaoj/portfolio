@@ -31,7 +31,7 @@ const Work = () => {
                 </div>
                 <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
                   <a href="https://projetogecko.vercel.app/" target='blank'>
-                      <span className='text-3x1 text-white'>E-commerce desenvolvido com Java, Postgre SQL, TypeScript e React</span>
+                      <span className='text-3x1 text-white'>E-commerce desenvolvido com Java, PostgreSQL, TypeScript e React</span>
                   </a>
                 </div>
               </div>
