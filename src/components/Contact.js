@@ -11,7 +11,7 @@ const Contact = () => {
             <div>
               <h4 className='text-x1 uppercase text-accent font-medium mb-2 tracking-wide'>Fale comigo!</h4>
               <h2 className='text-[45px] lg:text-[90px] leading-none mb-12'>
-                Quer conversar <br /> comigo?
+                Vamos conversar? <br />
               </h2>
             </div>
           </motion.div>
