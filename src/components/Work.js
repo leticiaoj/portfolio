@@ -26,12 +26,12 @@ const Work = () => {
                 <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt='' />
                 <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
                   <a href="https://projetogecko.vercel.app/" target='blank'>
-                    <span className='text-gradient'>E-commerce</span>
+                    <span className='text-gradient'>Gecko</span>
                   </a>
                 </div>
                 <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
                   <a href="https://projetogecko.vercel.app/" target='blank'>
-                    <span className='text-3x1 text-white'>Gecko</span>
+                      <span className='text-3x1 text-white'>E-commerce desenvolvido com Java, Postgre SQL, TypeScript e React</span>
                   </a>
                 </div>
               </div>
@@ -44,12 +44,12 @@ const Work = () => {
                 <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt='' />
                 <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
                   <a href="https://psitalks.vercel.app/" target='blank'>
-                    <span className='text-gradient'>Blog Pessoal</span>
+                    <span className='text-gradient'>Psitalks</span>
                   </a>
                 </div>
                 <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
                   <a href="https://psitalks.vercel.app/" target='blank'>
-                    <span className='text-3x1 text-white'>Psitalks</span>
+                    <span className='text-3x1 text-white'>Blog Pessoal desenvolvido com React</span>
                   </a>
                 </div>
               </div>
